@@ -1,7 +1,7 @@
 # Demand Forecasting and Inventory Optimization
 
 ### Introduction:
-In this project, we start by gathering historical sales data, customer orders and economic trends. Then, we used Random forest Regressor model for demand forecasting. Then, we used the forecasted demand to optimize inventory levels by implementing strategies like reorder points, safety stock, and economic order quantity (EOQ) calculations. The model achieves an accuracy of 93%
+In this project, we start by gathering historical sales data, customer orders and economic trends. Then, we used Random forest Regressor model for demand forecasting. Then, we used the forecasted demand to optimize inventory levels by implementing strategies like reorder points, safety stock, and economic order quantity (EOQ) calculations. The model got an accuracy of 93%.
 
 ### Project Flow:
 Data Collection,
