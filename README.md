@@ -1,2 +1,4 @@
-# Introduction:
-This Project aims to predict inventory levels of a retail store by forecasting accurate demand.
+# Demand Forecasting and Inventory Optimization
+
+### Introduction:
+In this project, we start by gathering historical sales data, customer orders and economic trends. Then, we used Random forest Regressor model for demand forecasting. Then, we used the forecasted to optimize inventory levels by implementing strategies like reorder points, safety stock, and economic order quantity (EOQ) calculations.
