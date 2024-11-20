@@ -12,4 +12,4 @@ Model Training,
 Result.
 
 ### Dataset Info
-I took the dataset https://www.kaggle.com/datasets/bhanupratapbiswas/retail-price-optimization-case-study from kaggle.  
+I took the [dataset](https://www.kaggle.com/datasets/bhanupratapbiswas/retail-price-optimization-case-study) from kaggle.  
