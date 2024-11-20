@@ -12,6 +12,7 @@ Model Training,
 Result.
 
 ### Libraries Used:
-Pandas, Numpy, 
+Pandas, Numpy, Matplotlib, Sklearn.
+
 ### Dataset Info
 I took the [dataset](https://www.kaggle.com/datasets/bhanupratapbiswas/retail-price-optimization-case-study) from kaggle.  
